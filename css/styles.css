@@ -3,7 +3,7 @@ body{
   text-align: center;
   font-family: 'Merriweather', serif;
   color: #40514E;
-  
+
 }
 p{
   line-height: 2;
@@ -71,15 +71,15 @@ h3{
 
 }
 
-.html-img{
+.webdev-img{
   float: left;
   margin-right: 30px;
 }
-.css-img{
+.appdev-img{
   float: right;
   margin-left: 30px;
 }
-.js-img{
+.digitalmarketing-img{
   float: left;
   margin-right: 30px;
 }
@@ -140,7 +140,6 @@ hr{
   border-color: #79A3B1;
   border-width: 10px;
 }
-.webd{
+.programmer{
   padding: 0;
 }
-
