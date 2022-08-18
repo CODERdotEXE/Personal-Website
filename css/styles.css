@@ -3,6 +3,7 @@ body{
   text-align: center;
   font-family: 'Merriweather', serif;
   color: #40514E;
+  background-color: #EAF6F6
 }
 p{
   line-height: 2;
@@ -141,4 +142,7 @@ hr{
 }
 .webd{
   padding: 0;
+}
+.middle-container{
+  background-color: #EAF6F6
 }
